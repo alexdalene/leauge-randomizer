@@ -79,7 +79,6 @@
 					onComplete() {
 						gsap.to(selectedElement, {
 							border: '2px solid var(--accent)',
-							borderRadius: '1rem',
 							duration: 0.5,
 							ease: 'power2.out'
 						});
@@ -99,14 +98,18 @@
 			<img src={'/icons/lane-' + selectedLane + '.svg'} alt="" />
 		</div>
 		<div class="selected-carousel" bind:this={carousel}>
-			{#each [1, 2, 3] as _}
+			{#each [1, 2, 3] as repeatIndex}
 				<!-- Repeat the champions 3 times -->
 				{#each champions as champion}
 					{#if champion.position.includes(selectedLane)}
-						{#if selectedChampion && selectedChampion.key === champion.key}
+						{#if selectedChampion && selectedChampion.key === champion.key && repeatIndex === 3}
 							<img src={champion.image} alt={champion.name} id={'champion-' + champion.key} />
 						{:else}
-							<img src={champion.image} alt={champion.name} id={'champion-' + champion.key} />
+							<img
+								src={champion.image}
+								alt={champion.name}
+								id={repeatIndex === 3 ? 'champion-' + champion.key : ''}
+							/>
 						{/if}
 					{/if}
 				{/each}
