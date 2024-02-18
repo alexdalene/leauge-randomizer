@@ -121,6 +121,11 @@
 	});
 </script>
 
+<svelte:head>
+	<title>Tilfeldig</title>
+	<meta name="description" content="Get a random Leauge of Legends champion for your next match!" />
+</svelte:head>
+
 <h1>Tilfeldig</h1>
 
 {#if selectedLane}
