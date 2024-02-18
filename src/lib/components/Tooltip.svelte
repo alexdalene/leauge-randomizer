@@ -18,6 +18,7 @@
 		visibility: hidden;
 		width: 120px;
 		text-align: center;
+		font-size: var(--font-sm);
 		padding: 5px 0;
 		border-radius: 6px;
 
