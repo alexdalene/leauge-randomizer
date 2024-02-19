@@ -3,1002 +3,1169 @@
 		"key": "266",
 		"name": "Aatrox",
 		"image": "/champion/Aatrox.png",
-		"position": ["top"]
+		"position": ["top"],
+		"id": "Aatrox"
 	},
 	{
 		"key": "103",
 		"name": "Ahri",
 		"image": "/champion/Ahri.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Ahri"
 	},
 	{
 		"key": "84",
 		"name": "Akali",
 		"image": "/champion/Akali.png",
-		"position": ["top", "mid"]
+		"position": ["top", "mid"],
+		"id": "Akali"
 	},
 	{
 		"key": "166",
 		"name": "Akshan",
 		"image": "/champion/Akshan.png",
-		"position": ["bot", "mid"]
+		"position": ["bot", "mid"],
+		"id": "Akshan"
 	},
 	{
 		"key": "12",
 		"name": "Alistar",
 		"image": "/champion/Alistar.png",
-		"position": ["support"]
+		"position": ["support"],
+		"id": "Alistar"
 	},
 	{
 		"key": "32",
 		"name": "Amumu",
 		"image": "/champion/Amumu.png",
-		"position": ["jungle"]
+		"position": ["jungle"],
+		"id": "Amumu"
 	},
 	{
 		"key": "34",
 		"name": "Anivia",
 		"image": "/champion/Anivia.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Anivia"
 	},
 	{
 		"key": "1",
 		"name": "Annie",
 		"image": "/champion/Annie.png",
-		"position": ["mid", "support"]
+		"position": ["mid", "support"],
+		"id": "Annie"
 	},
 	{
 		"key": "523",
 		"name": "Aphelios",
 		"image": "/champion/Aphelios.png",
-		"position": ["bot"]
+		"position": ["bot"],
+		"id": "Aphelios"
 	},
 	{
 		"key": "22",
 		"name": "Ashe",
 		"image": "/champion/Ashe.png",
-		"position": ["bot"]
+		"position": ["bot"],
+		"id": "Ashe"
 	},
 	{
 		"key": "136",
 		"name": "Aurelion Sol",
 		"image": "/champion/AurelionSol.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "AurelionSol"
 	},
 	{
 		"key": "268",
 		"name": "Azir",
 		"image": "/champion/Azir.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Azir"
 	},
 	{
 		"key": "432",
 		"name": "Bard",
 		"image": "/champion/Bard.png",
-		"position": ["support"]
+		"position": ["support"],
+		"id": "Bard"
 	},
 	{
 		"key": "200",
 		"name": "Bel'Veth",
 		"image": "/champion/Belveth.png",
-		"position": ["top", "jungle"]
+		"position": ["top", "jungle"],
+		"id": "Belveth"
 	},
 	{
 		"key": "245",
 		"name": "Ekko",
 		"image": "/champion/Ekko.png",
-		"position": ["mid", "jungle"]
+		"position": ["mid", "jungle"],
+		"id": "Ekko"
 	},
 	{
 		"key": "81",
 		"name": "Ezreal",
 		"image": "/champion/Ezreal.png",
-		"position": ["bot", "mid"]
+		"position": ["bot", "mid"],
+		"id": "Ezreal"
 	},
 	{
 		"key": "53",
 		"name": "Blitzcrank",
 		"image": "/champion/Blitzcrank.png",
-		"position": ["support"]
+		"position": ["support"],
+		"id": "Blitzcrank"
 	},
 	{
 		"key": "63",
 		"name": "Brand",
 		"image": "/champion/Brand.png",
-		"position": ["mid", "support"]
+		"position": ["mid", "support"],
+		"id": "Brand"
 	},
 	{
 		"key": "201",
 		"name": "Braum",
 		"image": "/champion/Braum.png",
-		"position": ["support"]
+		"position": ["support"],
+		"id": "Braum"
 	},
 	{
 		"key": "233",
 		"name": "Briar",
 		"image": "/champion/Briar.png",
-		"position": ["top", "support"]
+		"position": ["top", "support"],
+		"id": "Briar"
 	},
 	{
 		"key": "51",
 		"name": "Caitlyn",
 		"image": "/champion/Caitlyn.png",
-		"position": ["bot"]
+		"position": ["bot"],
+		"id": "Caitlyn"
 	},
 	{
 		"key": "164",
 		"name": "Camille",
 		"image": "/champion/Camille.png",
-		"position": ["top"]
+		"position": ["top"],
+		"id": "Camille"
 	},
 	{
 		"key": "69",
 		"name": "Cassiopeia",
 		"image": "/champion/Cassiopeia.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Cassiopeia"
 	},
 	{
 		"key": "31",
 		"name": "Cho'Gath",
 		"image": "/champion/Chogath.png",
-		"position": ["top"]
+		"position": ["top"],
+		"id": "Chogath"
 	},
 	{
 		"key": "42",
 		"name": "Corki",
 		"image": "/champion/Corki.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Corki"
 	},
 	{
 		"key": "122",
 		"name": "Darius",
 		"image": "/champion/Darius.png",
-		"position": ["top"]
+		"position": ["top"],
+		"id": "Darius"
 	},
 	{
 		"key": "131",
 		"name": "Diana",
 		"image": "/champion/Diana.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Diana"
 	},
 	{
 		"key": "119",
 		"name": "Draven",
 		"image": "/champion/Draven.png",
-		"position": ["bot"]
+		"position": ["bot"],
+		"id": "Draven"
 	},
 	{
 		"key": "36",
 		"name": "Dr. Mundo",
 		"image": "/champion/DrMundo.png",
-		"position": ["top", "jungle"]
+		"position": ["top", "jungle"],
+		"id": "DrMundo"
 	},
 	{
 		"key": "60",
 		"name": "Elise",
 		"image": "/champion/Elise.png",
-		"position": ["jungle"]
+		"position": ["jungle"],
+		"id": "Elise"
 	},
 	{
 		"key": "28",
 		"name": "Evelynn",
 		"image": "/champion/Evelynn.png",
-		"position": ["jungle"]
+		"position": ["jungle"],
+		"id": "Evelynn"
 	},
 	{
 		"key": "9",
 		"name": "Fiddlesticks",
 		"image": "/champion/Fiddlesticks.png",
-		"position": ["jungle", "support"]
+		"position": ["jungle", "support"],
+		"id": "FiddleSticks"
 	},
 	{
 		"key": "114",
 		"name": "Fiora",
 		"image": "/champion/Fiora.png",
-		"position": ["top"]
+		"position": ["top"],
+		"id": "Fiora"
 	},
 	{
 		"key": "105",
 		"name": "Fizz",
 		"image": "/champion/Fizz.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Fizz"
 	},
 	{
 		"key": "3",
 		"name": "Galio",
 		"image": "/champion/Galio.png",
-		"position": ["mid", "support"]
+		"position": ["mid", "support"],
+		"id": "Galio"
 	},
 	{
 		"key": "41",
 		"name": "Gangplank",
 		"image": "/champion/Gangplank.png",
-		"position": ["top", "mid"]
+		"position": ["top", "mid"],
+		"id": "Gangplank"
 	},
 	{
 		"key": "86",
 		"name": "Garen",
 		"image": "/champion/Garen.png",
-		"position": ["top"]
+		"position": ["top"],
+		"id": "Garen"
 	},
 	{
 		"key": "150",
 		"name": "Gnar",
 		"image": "/champion/Gnar.png",
-		"position": ["top"]
+		"position": ["top"],
+		"id": "Gnar"
 	},
 	{
 		"key": "79",
 		"name": "Gragas",
 		"image": "/champion/Gragas.png",
-		"position": ["jungle", "support"]
+		"position": ["jungle", "support"],
+		"id": "Gragas"
 	},
 	{
 		"key": "104",
 		"name": "Graves",
 		"image": "/champion/Graves.png",
-		"position": ["jungle"]
+		"position": ["jungle"],
+		"id": "Graves"
 	},
 	{
 		"key": "887",
 		"name": "Gwen",
 		"image": "/champion/Gwen.png",
-		"position": ["top"]
+		"position": ["top"],
+		"id": "Gwen"
 	},
 	{
 		"key": "120",
 		"name": "Hecarim",
 		"image": "/champion/Hecarim.png",
-		"position": ["jungle"]
+		"position": ["jungle"],
+		"id": "Hecarim"
 	},
 	{
 		"key": "74",
 		"name": "Heimerdinger",
 		"image": "/champion/Heimerdinger.png",
-		"position": ["mid", "top"]
+		"position": ["mid", "top"],
+		"id": "Heimerdinger"
 	},
 	{
 		"key": "910",
 		"name": "Hwei",
 		"image": "/champion/Hwei.png",
-		"position": ["top"]
+		"position": ["top"],
+		"id": "Hwei"
 	},
 	{
 		"key": "420",
 		"name": "Illaoi",
 		"image": "/champion/Illaoi.png",
-		"position": ["top"]
+		"position": ["top"],
+		"id": "Illaoi"
 	},
 	{
 		"key": "39",
 		"name": "Irelia",
 		"image": "/champion/Irelia.png",
-		"position": ["top", "mid"]
+		"position": ["top", "mid"],
+		"id": "Irelia"
 	},
 	{
 		"key": "427",
 		"name": "Ivern",
 		"image": "/champion/Ivern.png",
-		"position": ["jungle", "support"]
+		"position": ["jungle", "support"],
+		"id": "Ivern"
 	},
 	{
 		"key": "40",
 		"name": "Janna",
 		"image": "/champion/Janna.png",
-		"position": ["support"]
+		"position": ["support"],
+		"id": "Janna"
 	},
 	{
 		"key": "59",
 		"name": "Jarvan IV",
 		"image": "/champion/JarvanIV.png",
-		"position": ["jungle", "top"]
+		"position": ["jungle", "top"],
+		"id": "JarvanIV"
 	},
 	{
 		"key": "24",
 		"name": "Jax",
 		"image": "/champion/Jax.png",
-		"position": ["top", "jungle"]
+		"position": ["top", "jungle"],
+		"id": "Jax"
 	},
 	{
 		"key": "126",
 		"name": "Jayce",
 		"image": "/champion/Jayce.png",
-		"position": ["top", "mid"]
+		"position": ["top", "mid"],
+		"id": "Jayce"
 	},
 	{
 		"key": "202",
 		"name": "Jhin",
 		"image": "/champion/Jhin.png",
-		"position": ["bot"]
+		"position": ["bot"],
+		"id": "Jhin"
 	},
 	{
 		"key": "222",
 		"name": "Jinx",
 		"image": "/champion/Jinx.png",
-		"position": ["bot"]
+		"position": ["bot"],
+		"id": "Jinx"
 	},
 	{
 		"key": "145",
 		"name": "Kai'Sa",
 		"image": "/champion/Kaisa.png",
-		"position": ["bot"]
+		"position": ["bot"],
+		"id": "Kaisa"
 	},
 	{
 		"key": "429",
 		"name": "Kalista",
 		"image": "/champion/Kalista.png",
-		"position": ["bot"]
+		"position": ["bot"],
+		"id": "Kalista"
 	},
 	{
 		"key": "43",
 		"name": "Karma",
 		"image": "/champion/Karma.png",
-		"position": ["support", "mid"]
+		"position": ["support", "mid"],
+		"id": "Karma"
 	},
 	{
 		"key": "30",
 		"name": "Karthus",
 		"image": "/champion/Karthus.png",
-		"position": ["mid", "jungle"]
+		"position": ["mid", "jungle"],
+		"id": "Karthus"
 	},
 	{
 		"key": "38",
 		"name": "Kassadin",
 		"image": "/champion/Kassadin.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Kassadin"
 	},
 	{
 		"key": "55",
 		"name": "Katarina",
 		"image": "/champion/Katarina.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Katarina"
 	},
 	{
 		"key": "10",
 		"name": "Kayle",
 		"image": "/champion/Kayle.png",
-		"position": ["top", "mid"]
+		"position": ["top", "mid"],
+		"id": "Kayle"
 	},
 	{
 		"key": "141",
 		"name": "Kayn",
 		"image": "/champion/Kayn.png",
-		"position": ["jungle"]
+		"position": ["jungle"],
+		"id": "Kayn"
 	},
 	{
 		"key": "85",
 		"name": "Kennen",
 		"image": "/champion/Kennen.png",
-		"position": ["top", "mid"]
+		"position": ["top", "mid"],
+		"id": "Kennen"
 	},
 	{
 		"key": "121",
 		"name": "Kha'Zix",
 		"image": "/champion/Khazix.png",
-		"position": ["jungle"]
+		"position": ["jungle"],
+		"id": "Khazix"
 	},
 	{
 		"key": "203",
 		"name": "Kindred",
 		"image": "/champion/Kindred.png",
-		"position": ["jungle"]
+		"position": ["jungle"],
+		"id": "Kindred"
 	},
 	{
 		"key": "240",
 		"name": "Kled",
 		"image": "/champion/Kled.png",
-		"position": ["top"]
+		"position": ["top"],
+		"id": "Kled"
 	},
 	{
 		"key": "96",
 		"name": "Kog'Maw",
 		"image": "/champion/KogMaw.png",
-		"position": ["bot"]
+		"position": ["bot"],
+		"id": "KogMaw"
 	},
 	{
 		"key": "897",
 		"name": "K'Sante",
 		"image": "/champion/KSante.png",
-		"position": ["support"]
+		"position": ["support"],
+		"id": "KSante"
 	},
 	{
 		"key": "7",
 		"name": "LeBlanc",
 		"image": "/champion/Leblanc.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Leblanc"
 	},
 	{
 		"key": "64",
 		"name": "Lee Sin",
 		"image": "/champion/LeeSin.png",
-		"position": ["jungle"]
+		"position": ["jungle"],
+		"id": "LeeSin"
 	},
 	{
 		"key": "89",
 		"name": "Leona",
 		"image": "/champion/Leona.png",
-		"position": ["support"]
+		"position": ["support"],
+		"id": "Leona"
 	},
 	{
 		"key": "876",
 		"name": "Lillia",
 		"image": "/champion/Lillia.png",
-		"position": ["jungle"]
+		"position": ["jungle"],
+		"id": "Lillia"
 	},
 	{
 		"key": "127",
 		"name": "Lissandra",
 		"image": "/champion/Lissandra.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Lissandra"
 	},
 	{
 		"key": "236",
 		"name": "Lucian",
 		"image": "/champion/Lucian.png",
-		"position": ["bot", "mid"]
+		"position": ["bot", "mid"],
+		"id": "Lucian"
 	},
 	{
 		"key": "117",
 		"name": "Lulu",
 		"image": "/champion/Lulu.png",
-		"position": ["support", "mid"]
+		"position": ["support", "mid"],
+		"id": "Lulu"
 	},
 	{
 		"key": "99",
 		"name": "Lux",
 		"image": "/champion/Lux.png",
-		"position": ["support", "mid"]
+		"position": ["support", "mid"],
+		"id": "Lux"
 	},
 	{
 		"key": "54",
 		"name": "Malphite",
 		"image": "/champion/Malphite.png",
-		"position": ["top", "support"]
+		"position": ["top", "support"],
+		"id": "Malphite"
 	},
 	{
 		"key": "90",
 		"name": "Malzahar",
 		"image": "/champion/Malzahar.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Malzahar"
 	},
 	{
 		"key": "57",
 		"name": "Maokai",
 		"image": "/champion/Maokai.png",
-		"position": ["top", "support"]
+		"position": ["top", "support"],
+		"id": "Maokai"
 	},
 	{
 		"key": "11",
 		"name": "Master Yi",
 		"image": "/champion/MasterYi.png",
-		"position": ["jungle"]
+		"position": ["jungle"],
+		"id": "MasterYi"
 	},
 	{
 		"key": "902",
 		"name": "Milio",
 		"image": "/champion/Milio.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Milio"
 	},
 	{
 		"key": "21",
 		"name": "Miss Fortune",
 		"image": "/champion/MissFortune.png",
-		"position": ["bot"]
+		"position": ["bot"],
+		"id": "MissFortune"
 	},
 	{
 		"key": "62",
 		"name": "Wukong",
 		"image": "/champion/MonkeyKing.png",
-		"position": ["top", "jungle"]
+		"position": ["top", "jungle"],
+		"id": "MonkeyKing"
 	},
 	{
 		"key": "82",
 		"name": "Mordekaiser",
 		"image": "/champion/Mordekaiser.png",
-		"position": ["top"]
+		"position": ["top"],
+		"id": "Mordekaiser"
 	},
 	{
 		"key": "25",
 		"name": "Morgana",
 		"image": "/champion/Morgana.png",
-		"position": ["support", "mid"]
+		"position": ["support", "mid"],
+		"id": "Morgana"
 	},
 	{
 		"key": "950",
 		"name": "Naafiri",
 		"image": "/champion/Naafiri.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Naafiri"
 	},
 	{
 		"key": "267",
 		"name": "Nami",
 		"image": "/champion/Nami.png",
-		"position": ["support"]
+		"position": ["support"],
+		"id": "Nami"
 	},
 	{
 		"key": "75",
 		"name": "Nasus",
 		"image": "/champion/Nasus.png",
-		"position": ["top"]
+		"position": ["top"],
+		"id": "Nasus"
 	},
 	{
 		"key": "111",
 		"name": "Nautilus",
 		"image": "/champion/Nautilus.png",
-		"position": ["support"]
+		"position": ["support"],
+		"id": "Nautilus"
 	},
 	{
 		"key": "518",
 		"name": "Neeko",
 		"image": "/champion/Neeko.png",
-		"position": ["mid", "support"]
+		"position": ["mid", "support"],
+		"id": "Neeko"
 	},
 	{
 		"key": "76",
 		"name": "Nidalee",
 		"image": "/champion/Nidalee.png",
-		"position": ["jungle"]
+		"position": ["jungle"],
+		"id": "Nidalee"
 	},
 	{
 		"key": "895",
 		"name": "Nilah",
 		"image": "/champion/Nilah.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Nilah"
 	},
 	{
 		"key": "56",
 		"name": "Nocturne",
 		"image": "/champion/Nocturne.png",
-		"position": ["jungle"]
+		"position": ["jungle"],
+		"id": "Nocturne"
 	},
 	{
 		"key": "20",
 		"name": "Nunu & Willump",
 		"image": "/champion/Nunu.png",
-		"position": ["jungle", "support"]
+		"position": ["jungle", "support"],
+		"id": "Nunu"
 	},
 	{
 		"key": "2",
 		"name": "Olaf",
 		"image": "/champion/Olaf.png",
-		"position": ["top", "jungle"]
+		"position": ["top", "jungle"],
+		"id": "Olaf"
 	},
 	{
 		"key": "61",
 		"name": "Orianna",
 		"image": "/champion/Orianna.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Orianna"
 	},
 	{
 		"key": "516",
 		"name": "Ornn",
 		"image": "/champion/Ornn.png",
-		"position": ["top"]
+		"position": ["top"],
+		"id": "Ornn"
 	},
 	{
 		"key": "80",
 		"name": "Pantheon",
 		"image": "/champion/Pantheon.png",
-		"position": ["top", "mid"]
+		"position": ["top", "mid"],
+		"id": "Pantheon"
 	},
 	{
 		"key": "78",
 		"name": "Poppy",
 		"image": "/champion/Poppy.png",
-		"position": ["top", "support"]
+		"position": ["top", "support"],
+		"id": "Poppy"
 	},
 	{
 		"key": "555",
 		"name": "Pyke",
 		"image": "/champion/Pyke.png",
-		"position": ["support"]
+		"position": ["support"],
+		"id": "Pyke"
 	},
 	{
 		"key": "246",
 		"name": "Qiyana",
 		"image": "/champion/Qiyana.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Qiyana"
 	},
 	{
 		"key": "133",
 		"name": "Quinn",
 		"image": "/champion/Quinn.png",
-		"position": ["top", "bot"]
+		"position": ["top", "bot"],
+		"id": "Quinn"
 	},
 	{
 		"key": "497",
 		"name": "Rakan",
 		"image": "/champion/Rakan.png",
-		"position": ["support"]
+		"position": ["support"],
+		"id": "Rakan"
 	},
 	{
 		"key": "33",
 		"name": "Rammus",
 		"image": "/champion/Rammus.png",
-		"position": ["jungle"]
+		"position": ["jungle"],
+		"id": "Rammus"
 	},
 	{
 		"key": "421",
 		"name": "Rek'Sai",
 		"image": "/champion/RekSai.png",
-		"position": ["jungle"]
+		"position": ["jungle"],
+		"id": "RekSai"
 	},
 	{
 		"key": "526",
 		"name": "Rell",
 		"image": "/champion/Rell.png",
-		"position": ["support"]
+		"position": ["support"],
+		"id": "Rell"
 	},
 	{
 		"key": "888",
 		"name": "Renata Glasc",
 		"image": "/champion/Renata.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Renata"
 	},
 	{
 		"key": "58",
 		"name": "Renekton",
 		"image": "/champion/Renekton.png",
-		"position": ["top"]
+		"position": ["top"],
+		"id": "Renekton"
 	},
 	{
 		"key": "107",
 		"name": "Rengar",
 		"image": "/champion/Rengar.png",
-		"position": ["jungle"]
+		"position": ["jungle"],
+		"id": "Rengar"
 	},
 	{
 		"key": "92",
 		"name": "Riven",
 		"image": "/champion/Riven.png",
-		"position": ["top"]
+		"position": ["top"],
+		"id": "Riven"
 	},
 	{
 		"key": "68",
 		"name": "Rumble",
 		"image": "/champion/Rumble.png",
-		"position": ["top", "mid"]
+		"position": ["top", "mid"],
+		"id": "Rumble"
 	},
 	{
 		"key": "13",
 		"name": "Ryze",
 		"image": "/champion/Ryze.png",
-		"position": ["mid", "top"]
+		"position": ["mid", "top"],
+		"id": "Ryze"
 	},
 	{
 		"key": "360",
 		"name": "Samira",
 		"image": "/champion/Samira.png",
-		"position": ["bot"]
+		"position": ["bot"],
+		"id": "Samira"
 	},
 	{
 		"key": "113",
 		"name": "Sejuani",
 		"image": "/champion/Sejuani.png",
-		"position": ["jungle"]
+		"position": ["jungle"],
+		"id": "Sejuani"
 	},
 	{
 		"key": "235",
 		"name": "Senna",
 		"image": "/champion/Senna.png",
-		"position": ["bot", "support"]
+		"position": ["bot", "support"],
+		"id": "Senna"
 	},
 	{
 		"key": "147",
 		"name": "Seraphine",
 		"image": "/champion/Seraphine.png",
-		"position": ["mid", "support"]
+		"position": ["mid", "support"],
+		"id": "Seraphine"
 	},
 	{
 		"key": "875",
 		"name": "Sett",
 		"image": "/champion/Sett.png",
-		"position": ["top", "support"]
+		"position": ["top", "support"],
+		"id": "Sett"
 	},
 	{
 		"key": "35",
 		"name": "Shaco",
 		"image": "/champion/Shaco.png",
-		"position": ["jungle", "mid"]
+		"position": ["jungle", "mid"],
+		"id": "Shaco"
 	},
 	{
 		"key": "98",
 		"name": "Shen",
 		"image": "/champion/Shen.png",
-		"position": ["top", "support"]
+		"position": ["top", "support"],
+		"id": "Shen"
 	},
 	{
 		"key": "102",
 		"name": "Shyvana",
 		"image": "/champion/Shyvana.png",
-		"position": ["jungle"]
+		"position": ["jungle"],
+		"id": "Shyvana"
 	},
 	{
 		"key": "27",
 		"name": "Singed",
 		"image": "/champion/Singed.png",
-		"position": ["top"]
+		"position": ["top"],
+		"id": "Singed"
 	},
 	{
 		"key": "14",
 		"name": "Sion",
 		"image": "/champion/Sion.png",
-		"position": ["top", "support"]
+		"position": ["top", "support"],
+		"id": "Sion"
 	},
 	{
 		"key": "15",
 		"name": "Sivir",
 		"image": "/champion/Sivir.png",
-		"position": ["bot"]
+		"position": ["bot"],
+		"id": "Sivir"
 	},
 	{
 		"key": "72",
 		"name": "Skarner",
 		"image": "/champion/Skarner.png",
-		"position": ["jungle"]
+		"position": ["jungle"],
+		"id": "Skarner"
 	},
 	{
 		"key": "901",
 		"name": "Smolder",
 		"image": "/champion/Smolder.png",
-		"position": ["top"]
+		"position": ["top"],
+		"id": "Smolder"
 	},
 	{
 		"key": "37",
 		"name": "Sona",
 		"image": "/champion/Sona.png",
-		"position": ["support"]
+		"position": ["support"],
+		"id": "Sona"
 	},
 	{
 		"key": "16",
 		"name": "Soraka",
 		"image": "/champion/Soraka.png",
-		"position": ["support"]
+		"position": ["support"],
+		"id": "Soraka"
 	},
 	{
 		"key": "50",
 		"name": "Swain",
 		"image": "/champion/Swain.png",
-		"position": ["mid", "support"]
+		"position": ["mid", "support"],
+		"id": "Swain"
 	},
 	{
 		"key": "517",
 		"name": "Sylas",
 		"image": "/champion/Sylas.png",
-		"position": ["mid", "top"]
+		"position": ["mid", "top"],
+		"id": "Sylas"
 	},
 	{
 		"key": "134",
 		"name": "Syndra",
 		"image": "/champion/Syndra.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Syndra"
 	},
 	{
 		"key": "223",
 		"name": "Tahm Kench",
 		"image": "/champion/TahmKench.png",
-		"position": ["support"]
+		"position": ["support"],
+		"id": "TahmKench"
 	},
 	{
 		"key": "163",
 		"name": "Taliyah",
 		"image": "/champion/Taliyah.png",
-		"position": ["mid", "jungle"]
+		"position": ["mid", "jungle"],
+		"id": "Taliyah"
 	},
 	{
 		"key": "91",
 		"name": "Talon",
 		"image": "/champion/Talon.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Talon"
 	},
 	{
 		"key": "44",
 		"name": "Taric",
 		"image": "/champion/Taric.png",
-		"position": ["support"]
+		"position": ["support"],
+		"id": "Taric"
 	},
 	{
 		"key": "17",
 		"name": "Teemo",
 		"image": "/champion/Teemo.png",
-		"position": ["top", "mid"]
+		"position": ["top", "mid"],
+		"id": "Teemo"
 	},
 	{
 		"key": "412",
 		"name": "Thresh",
 		"image": "/champion/Thresh.png",
-		"position": ["support"]
+		"position": ["support"],
+		"id": "Thresh"
 	},
 	{
 		"key": "18",
 		"name": "Tristana",
 		"image": "/champion/Tristana.png",
-		"position": ["bot"]
+		"position": ["bot"],
+		"id": "Tristana"
 	},
 	{
 		"key": "48",
 		"name": "Trundle",
 		"image": "/champion/Trundle.png",
-		"position": ["jungle", "top"]
+		"position": ["jungle", "top"],
+		"id": "Trundle"
 	},
 	{
 		"key": "23",
 		"name": "Tryndamere",
 		"image": "/champion/Tryndamere.png",
-		"position": ["top"]
+		"position": ["top"],
+		"id": "Tryndamere"
 	},
 	{
 		"key": "4",
 		"name": "Twisted Fate",
 		"image": "/champion/TwistedFate.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "TwistedFate"
 	},
 	{
 		"key": "29",
 		"name": "Twitch",
 		"image": "/champion/Twitch.png",
-		"position": ["bot", "jungle"]
+		"position": ["bot", "jungle"],
+		"id": "Twitch"
 	},
 	{
 		"key": "77",
 		"name": "Udyr",
 		"image": "/champion/Udyr.png",
-		"position": ["jungle"]
+		"position": ["jungle"],
+		"id": "Udyr"
 	},
 	{
 		"key": "6",
 		"name": "Urgot",
 		"image": "/champion/Urgot.png",
-		"position": ["top"]
+		"position": ["top"],
+		"id": "Urgot"
 	},
 	{
 		"key": "110",
 		"name": "Varus",
 		"image": "/champion/Varus.png",
-		"position": ["bot"]
+		"position": ["bot"],
+		"id": "Varus"
 	},
 	{
 		"key": "67",
 		"name": "Vayne",
 		"image": "/champion/Vayne.png",
-		"position": ["bot"]
+		"position": ["bot"],
+		"id": "Vayne"
 	},
 	{
 		"key": "45",
 		"name": "Veigar",
 		"image": "/champion/Veigar.png",
-		"position": ["mid", "support"]
+		"position": ["mid", "support"],
+		"id": "Veigar"
 	},
 	{
 		"key": "161",
 		"name": "Vel'Koz",
 		"image": "/champion/Velkoz.png",
-		"position": ["mid", "support"]
+		"position": ["mid", "support"],
+		"id": "Velkoz"
 	},
 	{
 		"key": "711",
 		"name": "Vex",
 		"image": "/champion/Vex.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Vex"
 	},
 	{
 		"key": "254",
 		"name": "Vi",
 		"image": "/champion/Vi.png",
-		"position": ["jungle"]
+		"position": ["jungle"],
+		"id": "Vi"
 	},
 	{
 		"key": "234",
 		"name": "Viego",
 		"image": "/champion/Viego.png",
-		"position": ["jungle", "top"]
+		"position": ["jungle", "top"],
+		"id": "Viego"
 	},
 	{
 		"key": "112",
 		"name": "Viktor",
 		"image": "/champion/Viktor.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Viktor"
 	},
 	{
 		"key": "8",
 		"name": "Vladimir",
 		"image": "/champion/Vladimir.png",
-		"position": ["top", "mid"]
+		"position": ["top", "mid"],
+		"id": "Vladimir"
 	},
 	{
 		"key": "106",
 		"name": "Volibear",
 		"image": "/champion/Volibear.png",
-		"position": ["top", "jungle"]
+		"position": ["top", "jungle"],
+		"id": "Volibear"
 	},
 	{
 		"key": "19",
 		"name": "Warwick",
 		"image": "/champion/Warwick.png",
-		"position": ["jungle", "top"]
+		"position": ["jungle", "top"],
+		"id": "Warwick"
 	},
 	{
 		"key": "498",
 		"name": "Xayah",
 		"image": "/champion/Xayah.png",
-		"position": ["bot"]
+		"position": ["bot"],
+		"id": "Xayah"
 	},
 	{
 		"key": "101",
 		"name": "Xerath",
 		"image": "/champion/Xerath.png",
-		"position": ["mid", "support"]
+		"position": ["mid", "support"],
+		"id": "Xerath"
 	},
 	{
 		"key": "5",
 		"name": "Xin Zhao",
 		"image": "/champion/XinZhao.png",
-		"position": ["jungle", "top"]
+		"position": ["jungle", "top"],
+		"id": "XinZhao"
 	},
 	{
 		"key": "157",
 		"name": "Yasuo",
 		"image": "/champion/Yasuo.png",
-		"position": ["mid", "top"]
+		"position": ["mid", "top"],
+		"id": "Yasuo"
 	},
 	{
 		"key": "777",
 		"name": "Yone",
 		"image": "/champion/Yone.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Yone"
 	},
 	{
 		"key": "83",
 		"name": "Yorick",
 		"image": "/champion/Yorick.png",
-		"position": ["top"]
+		"position": ["top"],
+		"id": "Yorick"
 	},
 	{
 		"key": "350",
 		"name": "Yuumi",
 		"image": "/champion/Yuumi.png",
-		"position": ["support"]
+		"position": ["support"],
+		"id": "Yuumi"
 	},
 	{
 		"key": "154",
 		"name": "Zac",
 		"image": "/champion/Zac.png",
-		"position": ["jungle"]
+		"position": ["jungle"],
+		"id": "Zac"
 	},
 	{
 		"key": "238",
 		"name": "Zed",
 		"image": "/champion/Zed.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Zed"
 	},
 	{
 		"key": "221",
 		"name": "Zeri",
 		"image": "/champion/Zeri.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Zeri"
 	},
 	{
 		"key": "115",
 		"name": "Ziggs",
 		"image": "/champion/Ziggs.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Ziggs"
 	},
 	{
 		"key": "26",
 		"name": "Zilean",
 		"image": "/champion/Zilean.png",
-		"position": ["support", "mid"]
+		"position": ["support", "mid"],
+		"id": "Zilean"
 	},
 	{
 		"key": "142",
 		"name": "Zoe",
 		"image": "/champion/Zoe.png",
-		"position": ["mid"]
+		"position": ["mid"],
+		"id": "Zoe"
 	},
 	{
 		"key": "143",
 		"name": "Zyra",
 		"image": "/champion/Zyra.png",
-		"position": ["support"]
+		"position": ["support"],
+		"id": "Zyra"
 	}
 ]
