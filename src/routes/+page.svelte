@@ -75,10 +75,12 @@
 			const randomIndex = Math.floor(Math.random() * championsInLane.length);
 			selectedChampion = championsInLane[randomIndex];
 
-			championName = selectedChampion.name.replace(/\s+/g, '');
+			championName = selectedChampion.name.replace(/\.|'/g, '').replace(/\s+/g, '');
 
 			if (championName === 'Wukong') {
 				championName = 'MonkeyKing';
+			} else if (championName === 'Nunu&Willump') {
+				championName = 'Nunu';
 			}
 
 			setTimeout(() => {
@@ -190,6 +192,12 @@
 					{/if}
 				{/each}
 			{/each}
+			<div class="placeholder">
+				<img src="/champion/Aatrox.png" alt="Aatrox" />
+			</div>
+			<div class="placeholder">
+				<img src="/champion/Aatrox.png" alt="Aatrox" />
+			</div>
 		</div>
 		{#if selectedChampion}
 			<div
@@ -292,7 +300,6 @@
 			var(--background) 90%,
 			transparent
 		);
-		scroll-margin-inline: 50%;
 
 		& > div {
 			scroll-snap-align: center;
@@ -304,6 +311,10 @@
 			object-fit: contain;
 			height: 12rem;
 			width: auto;
+		}
+
+		& .placeholder {
+			visibility: hidden;
 		}
 	}
 
@@ -356,6 +367,11 @@
 				object-fit: contain;
 				height: 2rem;
 			}
+		}
+
+		@media (max-width: 768px) {
+			grid-template-rows: repeat(6, 1fr);
+			grid-template-columns: 1fr;
 		}
 	}
 </style>
