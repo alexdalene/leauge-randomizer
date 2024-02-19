@@ -63,7 +63,7 @@
 
 <section>
 	<h1>Tilfeldig</h1>
-	<span>v0.0.3</span>
+	<span>v0.0.4</span>
 	<p>
 		TILFELDIG is not endorsed by Riot Games and does not reflect the views or opinions of Riot Games
 		or anyone officially involved in producing or managing Riot Games properties. Riot Games and all
@@ -94,8 +94,7 @@
 		}
 
 		@media (max-width: 768px) {
-			grid-template-rows: repeat(6, 1fr);
-			grid-template-columns: 1fr;
+			gap: 0.5rem;
 		}
 	}
 
@@ -108,6 +107,7 @@
 		position: absolute;
 		bottom: 0;
 		margin-bottom: 2rem;
+		padding-inline: 1rem;
 
 		& h1 {
 			text-transform: uppercase;
