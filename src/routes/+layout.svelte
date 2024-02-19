@@ -8,7 +8,6 @@
 {:else}
 	<main>
 		<slot />
-		<h1>Tilfeldig</h1>
 	</main>
 {/if}
 
@@ -19,13 +18,6 @@
 		display: flex;
 		justify-content: center;
 		align-items: center;
-	}
-
-	h1 {
-		text-transform: uppercase;
-		font-size: var(--font-lg);
-		position: fixed;
-		bottom: 1rem;
-		left: 1rem;
+		flex-direction: column;
 	}
 </style>

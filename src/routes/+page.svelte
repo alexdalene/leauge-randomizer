@@ -44,8 +44,11 @@
 </script>
 
 <svelte:head>
-	<title>Tilfeldig</title>
-	<meta name="description" content="Get a random Leauge of Legends champion for your next match!" />
+	<title>Tilfeldig | A simple Leauge of Legends champion randomizer</title>
+	<meta
+		name="description"
+		content="Not sure who to play next? Don't worry. You can find your next champion here on Tilfeldig - A simple Leage of Legends champion randomizer."
+	/>
 </svelte:head>
 
 <div class="lanes">
@@ -57,6 +60,16 @@
 		</Tooltip>
 	{/each}
 </div>
+
+<section>
+	<h1>Tilfeldig</h1>
+	<span>v0.0.2</span>
+	<p>
+		TILFELDIG is not endorsed by Riot Games and does not reflect the views or opinions of Riot Games
+		or anyone officially involved in producing or managing Riot Games properties. Riot Games and all
+		associated properties are trademarks or registered trademarks of Riot Games, Inc
+	</p>
+</section>
 
 <style>
 	.lanes {
@@ -83,6 +96,33 @@
 		@media (max-width: 768px) {
 			grid-template-rows: repeat(6, 1fr);
 			grid-template-columns: 1fr;
+		}
+	}
+
+	section {
+		display: flex;
+		gap: 0.5rem;
+		flex-direction: column;
+		align-items: center;
+		max-width: 486px;
+		position: absolute;
+		bottom: 0;
+		margin-bottom: 2rem;
+
+		& h1 {
+			text-transform: uppercase;
+			font-size: var(--font-lg);
+			margin-bottom: -0.5rem;
+		}
+
+		& span,
+		p {
+			font-size: var(--font-sm);
+		}
+
+		& p {
+			text-align: center;
+			opacity: 0.4;
 		}
 	}
 </style>
