@@ -78,7 +78,7 @@
 </script>
 
 <svelte:head>
-	<title>TILFELDIG | Browsing {selectedLane} lane</title>
+	<title>Randomizing {selectedLane.toUpperCase()} Lane</title>
 	<meta
 		name="description"
 		content="Browse through the champions for the {selectedLane} lane on Tilfeldig - A simple Leage of Legends champion randomizer."
@@ -122,7 +122,7 @@
 				>
 			</Tooltip>
 		{:else}
-			<button disabled aria-hidden="true" type="button"
+			<button disabled aria-hidden="true" type="button" class="disabled"
 				><svg
 					xmlns="http://www.w3.org/2000/svg"
 					viewBox="0 0 512 512"
@@ -224,6 +224,14 @@
 
 			&:hover {
 				background-color: var(--secondary);
+			}
+		}
+
+		& .disabled {
+			cursor: default;
+
+			&:hover {
+				background-color: transparent;
 			}
 		}
 

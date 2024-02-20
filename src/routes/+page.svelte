@@ -44,10 +44,10 @@
 </script>
 
 <svelte:head>
-	<title>TILFELDIG | A simple Leauge of Legends champion randomizer</title>
+	<title>A Simple Leauge of Legends Champion Randomizer</title>
 	<meta
 		name="description"
-		content="Not sure who to play next? Don't worry. You can find your next champion here on Tilfeldig - A simple Leage of Legends champion randomizer."
+		content="Not sure who to play next? Don't worry. You can find your next champion here on TILFELDIG - A simple Leage of Legends champion randomizer."
 	/>
 </svelte:head>
 
@@ -63,7 +63,7 @@
 
 <section>
 	<h1>Tilfeldig</h1>
-	<span>v0.0.6</span>
+	<span>v0.0.7</span>
 	<p>
 		TILFELDIG is not endorsed by Riot Games and does not reflect the views or opinions of Riot Games
 		or anyone officially involved in producing or managing Riot Games properties. Riot Games and all

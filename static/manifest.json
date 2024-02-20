@@ -23,10 +23,10 @@
 	"id": "/?source=pwa",
 	"start_url": "/?source=pwa",
 	"background_color": "#05090e",
-	"display": "minimal-ui",
+	"display": "standalone",
 	"scope": "/",
 	"theme_color": "#3e2d72",
-	"description": "TILFELDIG is a Leauge of Legends Champion Randomizer.",
+	"description": "Not sure who to play next? Don't worry. You can find your next champion here on TILFELDIG - A simple Leage of Legends champion randomizer.",
 	"screenshots": [
 		{
 			"src": "/images/screenshot-narrow-1.png",
