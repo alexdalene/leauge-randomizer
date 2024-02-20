@@ -78,7 +78,8 @@
 </script>
 
 <svelte:head>
-	<title>Randomizing {selectedLane.toUpperCase()} Lane</title>
+	<title>Randomizing {selectedLane.toUpperCase()} {selectedLane === 'all' ? 'lanes' : 'lane'}</title
+	>
 	<meta
 		name="description"
 		content="Browse through the champions for the {selectedLane} lane on Tilfeldig - A simple Leage of Legends champion randomizer."
