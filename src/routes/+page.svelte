@@ -55,7 +55,7 @@
 	{#each lanes as lane}
 		<Tooltip text={lane.toUpperCase()}>
 			<button class="lane-btn" on:click={() => selectLane(lane)}>
-				<img src={'/icons/lane-' + lane + '.svg'} alt="Icon for lane" />
+				<img src={'/icons/lane-' + lane + '.svg'} alt="Icon for lane" width="32.94" height="32" />
 			</button>
 		</Tooltip>
 	{/each}
@@ -63,7 +63,7 @@
 
 <section>
 	<h1>Tilfeldig</h1>
-	<span>v0.0.5</span>
+	<span>v0.0.6</span>
 	<p>
 		TILFELDIG is not endorsed by Riot Games and does not reflect the views or opinions of Riot Games
 		or anyone officially involved in producing or managing Riot Games properties. Riot Games and all

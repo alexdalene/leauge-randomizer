@@ -1,0 +1,56 @@
+{
+	"short_name": "TILFELDIG",
+	"name": "TILFELDIG - A Leauge of Legends Champion Randomizer",
+	"icons": [
+		{
+			"src": "/images/icons-vector.svg",
+			"type": "image/svg+xml",
+			"sizes": "512x512"
+		},
+		{
+			"src": "/images/maskable_icon_x192.png",
+			"type": "image/png",
+			"sizes": "192x192",
+			"purpose": "maskable"
+		},
+		{
+			"src": "/images/maskable_icon_x512.png",
+			"type": "image/png",
+			"sizes": "512x512",
+			"purpose": "maskable"
+		}
+	],
+	"id": "/?source=pwa",
+	"start_url": "/?source=pwa",
+	"background_color": "#05090e",
+	"display": "minimal-ui",
+	"scope": "/",
+	"theme_color": "#3e2d72",
+	"description": "TILFELDIG is a Leauge of Legends Champion Randomizer.",
+	"screenshots": [
+		{
+			"src": "/images/screenshot-narrow-1.png",
+			"type": "image/png",
+			"sizes": "540x1169",
+			"form_factor": "narrow"
+		},
+		{
+			"src": "/images/screenshot-narrow-2.png",
+			"type": "image/png",
+			"sizes": "540x1169",
+			"form_factor": "narrow"
+		},
+		{
+			"src": "/images/screenshot-wide-1.png",
+			"type": "image/png",
+			"sizes": "895x540",
+			"form_factor": "wide"
+		},
+		{
+			"src": "/images/screenshot-wide-2.png",
+			"type": "image/png",
+			"sizes": "895x540",
+			"form_factor": "wide"
+		}
+	]
+}
