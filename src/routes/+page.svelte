@@ -63,7 +63,7 @@
 
 <section>
 	<h1>Tilfeldig</h1>
-	<span>v0.0.7</span>
+	<span>v0.0.8</span>
 	<p>
 		TILFELDIG is not endorsed by Riot Games and does not reflect the views or opinions of Riot Games
 		or anyone officially involved in producing or managing Riot Games properties. Riot Games and all
