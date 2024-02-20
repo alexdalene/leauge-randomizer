@@ -6,7 +6,7 @@ export async function load({ params }) {
 
 	if (params.slug === 'all') {
 		return {
-			champions: data[0]
+			champions: await data[0]
 		};
 	}
 

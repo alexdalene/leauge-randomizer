@@ -77,10 +77,18 @@
 	}
 </script>
 
+<svelte:head>
+	<title>TILFELDIG | Browsing {selectedLane} lane</title>
+	<meta
+		name="description"
+		content="Browse through the champions for the {selectedLane} lane on Tilfeldig - A simple Leage of Legends champion randomizer."
+	/>
+</svelte:head>
+
 <div class="container">
 	<div class="heading">
 		<Tooltip text="Back">
-			<a href="/"
+			<a href="/" aria-label="Back to home"
 				><svg
 					xmlns="http://www.w3.org/2000/svg"
 					viewBox="0 0 448 512"
@@ -93,11 +101,15 @@
 				></a
 			>
 		</Tooltip>
-		<img src={'/icons/lane-' + selectedLane + '.svg'} alt="" />
+
+		<div class="title">
+			<h1>{selectedLane}</h1>
+			<img src={'/icons/lane-' + selectedLane + '.svg'} alt="" />
+		</div>
 
 		{#if isTimelineComplete}
 			<Tooltip text="Retry">
-				<button on:click={retry} type="button" in:fade={{ duration: 200 }}
+				<button on:click={retry} type="button" in:fade={{ duration: 200 }} aria-label="Retry"
 					><svg
 						xmlns="http://www.w3.org/2000/svg"
 						viewBox="0 0 512 512"
@@ -110,7 +122,7 @@
 				>
 			</Tooltip>
 		{:else}
-			<button disabled
+			<button disabled aria-hidden="true" type="button"
 				><svg
 					xmlns="http://www.w3.org/2000/svg"
 					viewBox="0 0 512 512"
@@ -127,13 +139,20 @@
 		{#each [1, 2, 3] as repeatIndex}
 			<!-- Repeat the champions 3 times -->
 			{#each champions as champion}
-				{#if selectedChampion && selectedChampion.key === champion.key && repeatIndex === 3}
+				{#if selectedChampion && selectedChampion.key === champion.key && repeatIndex === 2}
 					<div>
-						<img src={champion.image} alt={champion.name} id={'champion-' + champion.key} />
+						<img
+							src={champion.image}
+							alt={champion.name}
+							id={'champion-' + champion.key}
+							width="192"
+							height="192"
+						/>
 						<div class="selected-champion">
 							<h2>{champion.name}</h2>
 							<a
 								target="_blank"
+								aria-label="View build on u.gg"
 								href={`https://u.gg/lol/champions/${champion.name.toLowerCase()}/build/${selectedLane}`}
 								>Build</a
 							>
@@ -141,21 +160,11 @@
 					</div>
 				{:else}
 					<div>
-						<img
-							src={champion.image}
-							alt={champion.name}
-							id={repeatIndex === 3 ? 'champion-' + champion.key : ''}
-						/>
+						<img src={champion.image} alt={champion.name} width="192" height="192" />
 					</div>
 				{/if}
 			{/each}
 		{/each}
-		<div class="placeholder">
-			<img src="/champion/Aatrox.png" alt="Aatrox" />
-		</div>
-		<div class="placeholder">
-			<img src="/champion/Aatrox.png" alt="Aatrox" />
-		</div>
 	</div>
 	{#if selectedChampion}
 		<div
@@ -222,6 +231,18 @@
 			object-fit: contain;
 			height: 2rem;
 		}
+
+		& .title {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			gap: 0.5rem;
+
+			& h1 {
+				font-size: var(--font-lg);
+				text-transform: uppercase;
+			}
+		}
 	}
 
 	.carousel {
@@ -240,6 +261,10 @@
 			var(--background) 90%,
 			transparent
 		);
+
+		&::-webkit-scrollbar {
+			display: none;
+		}
 
 		& > div {
 			scroll-snap-align: center;
