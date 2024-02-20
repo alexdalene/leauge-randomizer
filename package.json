@@ -1,7 +1,7 @@
 {
 	"name": "lol-randomizer",
 	"description": "A simple champion randomizer for League of Legends",
-	"version": "0.0.7",
+	"version": "0.0.8",
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
