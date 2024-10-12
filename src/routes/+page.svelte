@@ -44,10 +44,10 @@
 </script>
 
 <svelte:head>
-	<title>Leauge of Legends Champion Randomizer</title>
+	<title>League of Legends Champion Randomizer</title>
 	<meta
 		name="description"
-		content="Not sure who to play next? Don't worry. You can find your next champion here on TILFELDIG - A simple Leage of Legends champion randomizer. Choose a lane and get a random champion."
+		content="Not sure who to play next? Don't worry. You can find your next champion here on TILFELDIG - A simple League of Legends champion randomizer. Choose a lane and get a random champion."
 	/>
 </svelte:head>
 
